@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Designer.AI": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
